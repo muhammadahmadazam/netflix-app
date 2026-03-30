@@ -111,7 +111,7 @@ const MainHeader = () => {
             textDecoration: "none",
           }}
         >
-          AWSFlix
+          NutsFlix
         </Typography>
         <Stack
           direction="row"
