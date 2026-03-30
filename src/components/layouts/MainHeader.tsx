@@ -111,7 +111,7 @@ const MainHeader = () => {
             textDecoration: "none",
           }}
         >
-          Netflix
+          AWSFlix
         </Typography>
         <Stack
           direction="row"
